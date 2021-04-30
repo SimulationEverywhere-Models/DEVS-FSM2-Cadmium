@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Models>
+	<Model name="Moore" type="Atomic" description="Basic Moore atomic model, allows to build FSM machines">
+		<Inputs>
+			<Port name="event_in" type="Message_t" description="External events are inputs to this port"/>
+			<Port name="transition_in" type="Message_t" description="Transition events are inputs to this port"/>
+		</Inputs>
+		<Outputs>
+			<Port name="state_out" type="Message_t" description="outputs the state_value of the atomic."/>
+			<Port name="transition_out" type="Message_t" description="outputs the next active transtion of the machine."/>
+			<Port name="error_out" type="Message_t" description="outputs the error_value of the machine if error occurs."/>
+		</Outputs>
+		<Files>
+			<File name="moore.h" type="header file" location="atomic/moore.h"/>
+			<File name="message.h" type="header file" location="data_structures/message.h"/>	
+			<File name="message.cpp" type="cpp file" location="data_structures/message.cpp"/>	
+		</Files>
+	</Model>
+	<Model name="Simple Moore Machine" type="Coupled" description="Simple Moore Machine, detects presence of of atleast two consecutive 1's in input">
+		<Inputs>
+		</Inputs>
+		<Outputs>
+			<Port name="output_port" type="Message_t" description="outputs the state and error values of the model."/>
+		</Outputs>
+		<Files>
+			<File name="moore.h" type="header file" location="atomic/moore.h"/>
+			<File name="message.h" type="header file" location="data_structures/message.h"/>	
+			<File name="message.cpp" type="cpp file" location="data_structures/message.cpp"/>	
+			<File name="main_test_simplemoore.cpp" type="cpp file" location="test/main_test_simplemoore.cpp"/>
+			<File name="simplemoore_test.txt" type="text file" location="input_data/simplemoore_test.txt"/>	
+		</Files>
+	</Model>
+	<Model name="Vendor" type="Coupled" description="Vending machine that accepts 5,10 cent coins.">
+		<Inputs>
+		</Inputs>
+		<Outputs>
+			<Port name="output_port" type="Message_t" description="outputs the state and error values of the model."/>
+		</Outputs>
+		<Files>
+			<File name="moore.h" type="header file" location="atomic/moore.h"/>
+			<File name="message.h" type="header file" location="data_structures/message.h"/>	
+			<File name="message.cpp" type="cpp file" location="data_structures/message.cpp"/>	
+			<File name="main_vendor.cpp" type="cpp file" location="top_model/main_vendorcpp"/>
+			<File name="main_vendor.txt" type="text file" location="input_data/main_vendor.txt"/>	
+		</Files>
+	</Model>
+	<Model name="ATM" type="Coupled" description=" ATM machine with ability to widthdraw and deposit funds.">
+		<Inputs>
+			<Port name="input_port" type="Message_t" description="Takes input from outside to event_in port"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output_port" type="Message_t" description="outputs the state and error values of the model."/>
+		</Outputs>
+		<Files>
+			<File name="moore.h" type="header file" location="atomic/moore.h"/>
+			<File name="message.h" type="header file" location="data_structures/message.h"/>	
+			<File name="message.cpp" type="cpp file" location="data_structures/message.cpp"/>	
+			<File name="main_ATM.cpp" type="cpp file" location="top_model/main_ATM.cpp"/>
+			<File name="main_ATM.txt" type="text file" location="input_data/main_ATM.txt"/>	
+		</Files>
+	</Model>
+	<Model name="TELEPHONE" type="Coupled" description=" Simulates a Basic POTs systems">
+		<Inputs>
+			<Port name="input_port" type="Message_t" description="Takes input from outside to event_in port"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output_port" type="Message_t" description="outputs the state and error values of the model."/>
+		</Outputs>
+		<Files>
+			<File name="moore.h" type="header file" location="atomic/moore.h"/>
+			<File name="message.h" type="header file" location="data_structures/message.h"/>	
+			<File name="message.cpp" type="cpp file" location="data_structures/message.cpp"/>	
+			<File name="main_Telephon.cpp" type="cpp file" location="top_model/main_Telephone.cpp"/>
+			<File name="main_Telephone.txt" type="text file" location="input_data/main_telephone.txt"/>	
+		</Files>
+	</Model>
+	<Model name="serial_adder" type="Coupled" description="Represents a binary adder in Moore representaion.">
+		<Inputs>
+			<Port name="input_port" type="Message_t" description="Takes input from outside to event_in port"/>
+		</Inputs>
+		<Outputs>
+			<Port name="output_port" type="Message_t" description="outputs the state and error values of the model."/>
+		</Outputs>
+		<Files>
+			<File name="moore.h" type="header file" location="atomic/moore.h"/>
+			<File name="message.h" type="header file" location="data_structures/message.h"/>	
+			<File name="message.cpp" type="cpp file" location="data_structures/message.cpp"/>	
+			<File name="main_serial_adder.cpp" type="cpp file" location="top_model/main_serial_adder.cpp"/>
+			<File name="main_serial_adder.txt" type="text file" location="input_data/main_serial_adder.txt"/>	
+		</Files>
+	</Model>
+	...
+</Models>

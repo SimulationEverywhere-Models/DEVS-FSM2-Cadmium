@@ -1,0 +1,174 @@
+00:00:00:000
+State for model input_reader is next time: 00:00:00:000
+State for model state0 is 0 phase:1 StateValue:0 IsEvent:0 TempStateValue: 0
+State for model state1 is 1 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:0 TempStateValue: 0
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:000
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:1 StateValue:0 IsEvent:0 TempStateValue: 0
+State for model state1 is 1 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:0 TempStateValue: 0
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:010
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:1 StateValue:0 IsEvent:1 TempStateValue: 0
+State for model state1 is 1 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:0 TempStateValue: 0
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:010
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:1 StateValue:0 IsEvent:0 TempStateValue: 0
+State for model state1 is 1 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:0 TempStateValue: 0
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:010
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:1 StateValue:0 IsEvent:0 TempStateValue: 0
+State for model state1 is 1 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:0 TempStateValue: 0
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:020
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:1 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:0 TempStateValue: 0
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:020
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:1 StateValue:1 IsEvent:0 TempStateValue: 0
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:0 TempStateValue: 0
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:020
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:1 StateValue:1 IsEvent:0 TempStateValue: 0
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:0 TempStateValue: 0
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:030
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:1 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:0 TempStateValue: 0
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:030
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model state2 is 2 phase:1 StateValue:0 IsEvent:0 TempStateValue: 0
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:030
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model state2 is 2 phase:1 StateValue:0 IsEvent:0 TempStateValue: 0
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:040
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model state2 is 2 phase:1 StateValue:0 IsEvent:1 TempStateValue: 2
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:040
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model state2 is 2 phase:1 StateValue:0 IsEvent:0 TempStateValue: 2
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:040
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model state2 is 2 phase:1 StateValue:0 IsEvent:0 TempStateValue: 2
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:050
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model state2 is 2 phase:1 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:050
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:1 StateValue:1 IsEvent:0 TempStateValue: 2
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:050
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:1 StateValue:1 IsEvent:0 TempStateValue: 2
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:060
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:1 StateValue:1 IsEvent:1 TempStateValue: 1
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:060
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:1 StateValue:1 IsEvent:0 TempStateValue: 1
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:060
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:1 StateValue:1 IsEvent:0 TempStateValue: 1
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:070
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:1 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:070
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model state2 is 2 phase:1 StateValue:0 IsEvent:0 TempStateValue: 1
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:070
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model state2 is 2 phase:1 StateValue:0 IsEvent:0 TempStateValue: 1
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:080
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model state2 is 2 phase:1 StateValue:0 IsEvent:1 TempStateValue: 3
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:080
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:1 TempStateValue: 3
+State for model state3 is 3 phase:1 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:080
+State for model input_reader is next time: 00:00:00:010
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:1 TempStateValue: 3
+State for model state3 is 3 phase:1 StateValue:1 IsEvent:0 TempStateValue: 0
+00:00:00:090
+State for model input_reader is next time: inf
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:1 TempStateValue: 3
+State for model state3 is 3 phase:1 StateValue:1 IsEvent:1 TempStateValue: 1
+00:00:00:090
+State for model input_reader is next time: inf
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:1 StateValue:1 IsEvent:0 TempStateValue: 2
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:1 TempStateValue: 3
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:1 TempStateValue: 1
+00:00:00:090
+State for model input_reader is next time: inf
+State for model state0 is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model state1 is 1 phase:1 StateValue:1 IsEvent:0 TempStateValue: 2
+State for model state2 is 2 phase:0 StateValue:0 IsEvent:1 TempStateValue: 3
+State for model state3 is 3 phase:0 StateValue:1 IsEvent:1 TempStateValue: 1

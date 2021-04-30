@@ -1,0 +1,732 @@
+00:00:00:000
+State for model input_reader is next time: 00:00:00:000
+State for model idle is 0 phase:1 StateValue:0 IsEvent:0 TempStateValue: 0
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:0 TempStateValue: 0
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:0 TempStateValue: 0
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:0 TempStateValue: 0
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:000
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:1 StateValue:0 IsEvent:0 TempStateValue: 0
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:0 TempStateValue: 0
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:0 TempStateValue: 0
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:0 TempStateValue: 0
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:010
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:1 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:0 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:0 TempStateValue: 0
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:0 TempStateValue: 0
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:0 TempStateValue: 0
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:010
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:1 StateValue:1 IsEvent:0 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:0 TempStateValue: 0
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:0 TempStateValue: 0
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:0 TempStateValue: 0
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:010
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:1 StateValue:1 IsEvent:0 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:0 TempStateValue: 0
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:0 TempStateValue: 0
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:0 TempStateValue: 0
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:020
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:1 StateValue:1 IsEvent:1 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:0 TempStateValue: 0
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:0 TempStateValue: 0
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:0 TempStateValue: 0
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:020
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:1 StateValue:1 IsEvent:1 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:0 TempStateValue: 0
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:0 TempStateValue: 0
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:0 TempStateValue: 0
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:030
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:1 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:0 TempStateValue: 0
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:0 TempStateValue: 0
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:0 TempStateValue: 0
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:030
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:1 StateValue:2 IsEvent:0 TempStateValue: 0
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:0 TempStateValue: 0
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:0 TempStateValue: 0
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:030
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:1 StateValue:2 IsEvent:0 TempStateValue: 0
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:0 TempStateValue: 0
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:0 TempStateValue: 0
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:040
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:1 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:0 TempStateValue: 0
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:0 TempStateValue: 0
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:040
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:1 StateValue:3 IsEvent:0 TempStateValue: 0
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:0 TempStateValue: 0
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:040
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:1 StateValue:3 IsEvent:0 TempStateValue: 0
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:0 TempStateValue: 0
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:050
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:1 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:0 TempStateValue: 0
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:050
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:1 StateValue:4 IsEvent:0 TempStateValue: 0
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:050
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:1 StateValue:4 IsEvent:0 TempStateValue: 0
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:060
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:1 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:060
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:1 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:060
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:1 StateValue:5 IsEvent:0 TempStateValue: 0
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:070
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:1 StateValue:5 IsEvent:1 TempStateValue: 4
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:070
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:1 StateValue:4 IsEvent:0 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 4
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:070
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:1 StateValue:4 IsEvent:0 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 4
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:080
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:1 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 4
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:080
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:1 StateValue:5 IsEvent:0 TempStateValue: 4
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:080
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:1 StateValue:5 IsEvent:0 TempStateValue: 4
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:090
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:1 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:090
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:1 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:090
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:1 StateValue:6 IsEvent:0 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:100
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:1 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:100
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:1 StateValue:0 IsEvent:0 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:100
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:1 StateValue:0 IsEvent:0 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:110
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:1 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:110
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:1 StateValue:1 IsEvent:0 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:110
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:1 StateValue:1 IsEvent:0 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:120
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:1 StateValue:1 IsEvent:1 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:120
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:1 StateValue:0 IsEvent:0 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:120
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:1 StateValue:0 IsEvent:0 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:130
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:1 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:130
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:1 StateValue:1 IsEvent:0 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:130
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:1 StateValue:1 IsEvent:0 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:140
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:1 StateValue:1 IsEvent:1 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:140
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:1 StateValue:0 IsEvent:0 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:140
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:1 StateValue:0 IsEvent:0 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:150
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:1 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:150
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:1 StateValue:1 IsEvent:0 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:150
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:1 StateValue:1 IsEvent:0 TempStateValue: 0
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:160
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:1 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:160
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:1 StateValue:2 IsEvent:0 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:160
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:1 StateValue:2 IsEvent:0 TempStateValue: 3
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:170
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:1 StateValue:2 IsEvent:1 TempStateValue: 7
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:170
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 7
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:1 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:170
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 7
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:1 StateValue:7 IsEvent:0 TempStateValue: 0
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:180
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 7
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:1 StateValue:7 IsEvent:1 TempStateValue: 8
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:180
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 7
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:1 TempStateValue: 8
+State for model insertingmoney is 8 phase:1 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:180
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 7
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:1 TempStateValue: 8
+State for model insertingmoney is 8 phase:1 StateValue:8 IsEvent:0 TempStateValue: 0
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:190
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 7
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:1 TempStateValue: 8
+State for model insertingmoney is 8 phase:1 StateValue:8 IsEvent:1 TempStateValue: 9
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:190
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 7
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:1 TempStateValue: 8
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:1 TempStateValue: 9
+State for model depositdone is 9 phase:1 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:190
+State for model input_reader is next time: 00:00:00:010
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 7
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:1 TempStateValue: 8
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:1 TempStateValue: 9
+State for model depositdone is 9 phase:1 StateValue:9 IsEvent:0 TempStateValue: 0
+00:00:00:200
+State for model input_reader is next time: inf
+State for model idle is 0 phase:0 StateValue:0 IsEvent:1 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 7
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:1 TempStateValue: 8
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:1 TempStateValue: 9
+State for model depositdone is 9 phase:1 StateValue:9 IsEvent:1 TempStateValue: 0
+00:00:00:200
+State for model input_reader is next time: inf
+State for model idle is 0 phase:1 StateValue:0 IsEvent:0 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 7
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:1 TempStateValue: 8
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:1 TempStateValue: 9
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:1 TempStateValue: 0
+00:00:00:200
+State for model input_reader is next time: inf
+State for model idle is 0 phase:1 StateValue:0 IsEvent:0 TempStateValue: 1
+State for model checkingpin is 1 phase:0 StateValue:1 IsEvent:1 TempStateValue: 2
+State for model selectingtransactions is 2 phase:0 StateValue:2 IsEvent:1 TempStateValue: 7
+State for model withdrawing is 3 phase:0 StateValue:3 IsEvent:1 TempStateValue: 4
+State for model inputingamount is 4 phase:0 StateValue:4 IsEvent:1 TempStateValue: 5
+State for model confirming is 5 phase:0 StateValue:5 IsEvent:1 TempStateValue: 6
+State for model withdrawaldone is 6 phase:0 StateValue:6 IsEvent:1 TempStateValue: 0
+State for model depositing is 7 phase:0 StateValue:7 IsEvent:1 TempStateValue: 8
+State for model insertingmoney is 8 phase:0 StateValue:8 IsEvent:1 TempStateValue: 9
+State for model depositdone is 9 phase:0 StateValue:9 IsEvent:1 TempStateValue: 0
